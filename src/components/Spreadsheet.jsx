@@ -25,7 +25,7 @@ function Spreadsheet() {
               <button className="flex gap-1 justify-center items-center hover:gap-2 transition-all duration-300">
                 <span className="text-[#c782c4]">Learn more</span>
                 <span className="flex justify-center items-center">
-                  <img
+                  <img loading="lazy"
                     className="h-2 mt-1"
                     src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/63ff3b3e4dc16be9322e8817_right%20arrow.svg"
                     alt="error"
@@ -47,7 +47,7 @@ function Spreadsheet() {
         </div>
       </div>
       <div className="w-1/2 px-3 rounded-tl-3xl rounded-bl-3xl flex justify-center items-center bg-gradient-to-r from-salmon to-medium-purple hover:text-white">
-        <img src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/63f64bb2507621d0bf7da369_Demand%20forecasting-p-800.webp" alt="error" />
+        <img loading="lazy" src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/63f64bb2507621d0bf7da369_Demand%20forecasting-p-800.webp" alt="error" />
       </div>
       </div>
       <div className="text-gradient hover:bg-gradient-to-r from-salmon to-medium-purple hover:text-white mb-24">

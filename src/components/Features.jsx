@@ -47,7 +47,7 @@ function Features() {
       </div>
       <div className="w-3/4 h-3/4 bg-white rounded-3xl flex justify-center items-center ">
         <button className="absolute left-28" onClick={handleNextClick}>
-          <img
+          <img loading="lazy"
             src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d5122ea3ebb_slider-arrow.svg"
             className="h-11 rotate-180"
             alt="previous"
@@ -67,7 +67,7 @@ function Features() {
           </div>
         </div>
         <button className="absolute right-28" onClick={handleNextClick}>
-          <img
+          <img loading="lazy"
             src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d5122ea3ebb_slider-arrow.svg"
             className="h-11"
             alt="next"

@@ -40,7 +40,7 @@ const KeyMetricsSection = () => {
                 className={`flex items-center space-x-4 transition-opacity duration-500 ${activeStep === 1 ? 'opacity-100' : 'opacity-50'}`}
               >
                 <div className="w-12 h-12 rounded-full bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center">
-                  <img src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d8009ea3ec5_Avoid%20stockouts-icon.svg" alt="Avoid Stockouts" className="w-6 h-6" />
+                  <img loading="lazy" src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d8009ea3ec5_Avoid%20stockouts-icon.svg" alt="Avoid Stockouts" className="w-6 h-6" />
                 </div>
                 <a
                   href="#"
@@ -53,7 +53,7 @@ const KeyMetricsSection = () => {
                 className={`flex items-center space-x-4 transition-opacity duration-500 ${activeStep === 2 ? 'opacity-100' : 'opacity-50'}`}
               >
                 <div className="w-12 h-12 rounded-full bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center">
-                  <img src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d16ecea3ef7_reduced-icon.svg" alt="Reduced Icon" className="w-6 h-6" />
+                  <img loading="lazy" src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d16ecea3ef7_reduced-icon.svg" alt="Reduced Icon" className="w-6 h-6" />
                 </div>
                 <a
                   href="#recovery"
@@ -66,7 +66,7 @@ const KeyMetricsSection = () => {
                 className={`flex items-center space-x-4 transition-opacity duration-500 ${activeStep === 3 ? 'opacity-100' : 'opacity-50'}`}
               >
                 <div className="w-12 h-12 rounded-full bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center">
-                  <img src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d83fbea3ef8_Impact-icon.svg" alt="Impact Icon" className="w-6 h-6" />
+                  <img loading="lazy" src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d83fbea3ef8_Impact-icon.svg" alt="Impact Icon" className="w-6 h-6" />
                 </div>
                 <a
                   href="#revenue"

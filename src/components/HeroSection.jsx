@@ -20,14 +20,14 @@ function HeroSection() {
               Get started with CleverBooks
             </button>
           </div>
-          <img
+          <img loading="lazy"
           className="h-20 absolute bottom-0 top-[79%] left-[26%] "
             src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/63d1777671aadb7b8492b5f9_hero-home-cta%20right%20to%20left.svg"
             alt="error"
           />
         </div>
         <div className="w-1/2">
-          <img className=" h-[70%] absolute top-[25%] right-0" src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d648dea3f01_Hero%20Image.svg" alt="error" />
+          <img loading="lazy" className=" h-[70%] absolute top-[25%] right-0" src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d648dea3f01_Hero%20Image.svg" alt="error" />
         </div>
       </div>
     </section>

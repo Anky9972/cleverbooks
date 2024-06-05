@@ -5,7 +5,7 @@ function Founders() {
     <section className='w-full h-[120vh] flex justify-around items-center px-12'>
       <div className='w-[40%] h-4/5 relative'>
         <div className='rounded-3xl'>
-          <img className='rounded-3xl' width="580px" src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/64df240c8d5e1c29b06d3a95_Founders%20Photo-p-800.webp" alt="error" />
+          <img loading="lazy" className='rounded-3xl' width="580px" src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/64df240c8d5e1c29b06d3a95_Founders%20Photo-p-800.webp" alt="error" />
         </div>
         <div className='detail w-[402px] h-[130px] bg-[#f1e9fc] rounded-3xl ml-72 mb-[-40px]  absolute bottom-0'>
           <div className='w-full h-full p-10'>

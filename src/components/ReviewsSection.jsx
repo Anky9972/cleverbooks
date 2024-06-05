@@ -23,7 +23,7 @@ function ReviewsSection() {
             <div className='flex justify-between w-full'>
               <div className='flex gap-5'>
                 <div >
-                  <img className='rounded-full' src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/651c00235cd9c2cd10fb1976_Samosa%20Party%20Client%20Image.webp" alt="error" width="60px" />
+                  <img className='rounded-full' loading="lazy" src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/651c00235cd9c2cd10fb1976_Samosa%20Party%20Client%20Image.webp" alt="error" width="60px" />
                 </div>
                 <div className='flex flex-col'>
                   <span>Diksha Pande</span>
@@ -31,7 +31,7 @@ function ReviewsSection() {
                 </div>
               </div>
               <div>
-                <img
+                <img loading="lazy"
                   src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/63a48634ed59555eb9125770_samosa.svg" width="82px"
                   alt="error"
                 />
@@ -39,14 +39,14 @@ function ReviewsSection() {
             </div>
             <div className="flex gap-6">
                 <button>
-                  <img
+                  <img loading="lazy"
                     className="h-8 rotate-180"
                     src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d5122ea3ebb_slider-arrow.svg"
                     alt="error"
                   />
                 </button>
                 <button>
-                  <img
+                  <img loading="lazy"
                     className="h-8"
                     src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d5122ea3ebb_slider-arrow.svg"
                     alt="error"
@@ -65,13 +65,13 @@ function ReviewsSection() {
               <div className='w-60 h-28 rounded-3xl flex flex-col justify-center items-center gap-3 border-2 '>
                 <span className='text-5 font-semibold text-gradient'>Read story</span>
                 <span>
-                  <img src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326dd545ea3ebe_Vector.svg" alt="error" width="21px"/>
+                  <img loading="lazy" src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326dd545ea3ebe_Vector.svg" alt="error" width="21px"/>
                 </span>
               </div>
             </div>
           </div>
           <div className=" block w-full right overflow-hidden border-2 rounded-3xl border-[#d8c3ff]">
-  <img
+  <img loading="lazy"
     className=' inline-block max-w-full align-middle'
     src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/664ddc11c29c3652662f0739_samosa%20party%20image.webp" 
     alt="error"

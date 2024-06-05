@@ -11,7 +11,7 @@ function KeyProblemsSection() {
       <div className=" w-11/12 flex justify-around bg-white px-8">
         <div className="bg-[#f1e9fc] flex flex-col gap-5 p-6 rounded-3xl">
           <div>
-            <img
+            <img loading="lazy"
               className="h-14"
               src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/63f63ee54595853ca5e31682_what%20to%20orderr%20(1).svg"
               alt="error"
@@ -28,7 +28,7 @@ function KeyProblemsSection() {
         </div>
         <div className="bg-[#f1e9fc] flex flex-col gap-5 p-6 rounded-3xl">
           <div>
-            <img
+            <img loading="lazy"
               className="h-14"
               src="	https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/63bd0d2fab2e360025df922a_when%20to%20orderr.svg"
               alt="error"
@@ -44,7 +44,7 @@ function KeyProblemsSection() {
         </div>
         <div className="bg-[#f1e9fc] flex flex-col gap-5 p-6 rounded-3xl">
           <div>
-            <img
+            <img loading="lazy"
               className="h-14"
               src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/63bd0cc629ab7f2d8cb0a8bd_how%20much%20to%20stock.svg"
               alt="error"
@@ -60,7 +60,7 @@ function KeyProblemsSection() {
         </div>
         <div className="bg-[#f1e9fc] flex flex-col gap-5 p-6 rounded-3xl">
           <div>
-            <img
+            <img loading="lazy"
               className="h-14"
               src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/63bd0c2c27cde81ffea6515b_where%20to%20placee.svg"
               alt="error"

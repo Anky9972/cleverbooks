@@ -95,7 +95,7 @@ function Footer() {
         <div></div>
         <div className=" ml-36 col-span-1">
           <button className="rounded-full ">
-            <img className="h-11 hover:opacity-70 transition-all duration-300" src="	https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d53d1ea3ece_go-to-top.svg" alt="error" />
+            <img loading="lazy" className="h-11 hover:opacity-70 transition-all duration-300" src="	https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d53d1ea3ece_go-to-top.svg" alt="error" />
           </button>
         </div>
       </div>
